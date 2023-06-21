@@ -1,0 +1,12 @@
+.header-row {
+    background-color: lightgray;
+    font-weight: bold;
+}
+
+.even-row {
+    background-color: white;
+}
+
+.odd-row {
+    background-color: lightgray;
+}
