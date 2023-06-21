@@ -23,8 +23,8 @@ const BitcoinPriceGrid = () => {
 
         const bid = {
           id: 1,
-          bid: response.data.bid,
-          ask: response.data.ask,
+          bid: response.data.bidPrice,
+          ask: response.data.askPrice,
         };
 
         setRowData([bid]);
